@@ -1,0 +1,42 @@
+h1 {
+  padding: 50px;
+  margin-bottom: 50px;
+  background-color: black;
+  color: beige;
+  text-align: center;
+}
+
+/* The flex container */
+ul.blog-posts {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+
+  /*
+    ADD FLEX STYLES HERE
+
+    display
+    flex-direction
+    flex-wrap
+    gap
+  */
+}
+
+/* The flex item */
+ul.blog-posts li {
+  /*
+    ADD FLEX STYLES HERE
+
+    flex
+  */
+
+  /*
+    ADD OTHER STYLES TO MAKE YOUR "CARD" AWESOME
+  */
+}
+
+/******************************/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: beige;
+}

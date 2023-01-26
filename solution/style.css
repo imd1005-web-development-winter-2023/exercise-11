@@ -1,0 +1,32 @@
+h1 {
+  padding: 50px;
+  margin-bottom: 50px;
+  background-color: black;
+  color: beige;
+  text-align: center;
+}
+
+ul.blog-posts {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 3rem;
+}
+
+ul.blog-posts li {
+  flex: 1;
+  padding: 20px;
+
+  background-color: brown;
+  color: beige;
+}
+
+/******************************/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: beige;
+}
