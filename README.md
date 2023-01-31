@@ -1,6 +1,6 @@
-# Exercise 10 - CSS Flex box
+# Exercise 11 - CSS Flex box
 
-Welcome to exercise 10 - let's practice using CSS flex box.
+Welcome to exercise 11 - let's practice using CSS flex box.
 
 ## Steps
 
